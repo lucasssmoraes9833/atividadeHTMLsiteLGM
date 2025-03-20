@@ -1,0 +1,36 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 75px;
+    padding: 0;
+    background-color: rgb(108, 163, 121);
+}
+h1{
+    color: rgb(13, 16, 104);
+    font-size: 70px;
+}
+img{
+    width: 30%;
+    margin: 20px;
+}
+
+table{
+    width: 40%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table,th,td{
+border: 1px solid #0b0000;
+}
+h2{
+    color: rgb(238, 255, 81);
+    font-size: 50px;
+}
+li{
+    color: rgb(59, 75, 117);
+}
+th{
+    color: rgb(59, 75, 117);
+}
+
+
